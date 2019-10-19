@@ -4,3 +4,6 @@ beautifulsoup4
 
 # jupyter notebook
 jupyter
+
+# linting
+flake8
