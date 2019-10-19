@@ -1,2 +1,6 @@
+# Scraping
 requests
 beautifulsoup4
+
+# jupyter notebook
+jupyter
