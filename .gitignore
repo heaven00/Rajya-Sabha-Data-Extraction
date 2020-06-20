@@ -6,3 +6,6 @@
 
 # ipython
 .ipynb_checkpoints
+
+# sessions folder
+sessions
